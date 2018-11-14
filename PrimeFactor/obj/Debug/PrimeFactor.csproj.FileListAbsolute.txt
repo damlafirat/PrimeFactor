@@ -1,0 +1,9 @@
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.pdb
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.exe
+C:\Users\damla\Desktop\Projects\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.pdb
+C:\Users\damla\Desktop\Projects_C#\PrimeFactor\PrimeFactor\bin\Debug\PrimeFactor.exe.config
+C:\Users\damla\Desktop\Projects_C#\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.exe
+C:\Users\damla\Desktop\Projects_C#\PrimeFactor\PrimeFactor\obj\Debug\PrimeFactor.pdb
